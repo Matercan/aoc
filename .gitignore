@@ -1,0 +1,6 @@
+*.svg
+*.out
+*.asm
+*.txt
+
+*.vscode
